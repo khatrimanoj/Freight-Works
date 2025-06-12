@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>activeshipment</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="20" cy="20" r="20"></circle>
+        <filter x="-47.5%" y="-35.0%" width="195.0%" height="195.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Visual-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dashboard@2x" transform="translate(-452.000000, -367.000000)">
+            <g id="activeshipment" transform="translate(463.000000, 373.000000)">
+                <g id="Oval">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="truck-front" transform="translate(12.000000, 12.000000)">
+                    <polyline id="Shape" stroke="#72E0DA" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="4 13 4 15 1 15 1 13"></polyline>
+                    <polyline id="Shape" stroke="#72E0DA" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="14 13 14 15 11 15 11 13"></polyline>
+                    <polygon id="Shape" stroke="#72E0DA" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="14 13 1 13 1 9 2 8 13 8 14 9"></polygon>
+                    <path d="M0,5 L0,7" id="Shape" stroke="#72E0DA" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M15,5 L15,7" id="Shape" stroke="#72E0DA" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M2,8 L2,3 C2,2.448 2.448,2 3,2 L12,2 C12.552,2 13,2.448 13,3 L13,8" id="Shape" stroke="#72E0DA" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <circle id="Oval" fill="#72E0DA" fill-rule="nonzero" cx="3" cy="10" r="1"></circle>
+                    <circle id="Oval" fill="#72E0DA" fill-rule="nonzero" cx="11" cy="10" r="1"></circle>
+                    <path d="M2,0 L13,0" id="Shape" stroke="#72E0DA" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

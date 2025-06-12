@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="21px" viewBox="0 0 6 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>menu-dots</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Visual-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Users@2x" transform="translate(-1315.000000, -273.000000)" fill-rule="nonzero" fill="#B0BDC5">
+            <g id="menu-dots" transform="translate(1318.000000, 283.307692) rotate(90.000000) translate(-1318.000000, -283.307692) translate(1308.000000, 281.000000)">
+                <circle id="Oval" cx="2.30769231" cy="2.30769231" r="2.30769231"></circle>
+                <circle id="Oval" cx="10" cy="2.30769231" r="2.30769231"></circle>
+                <circle id="Oval" cx="17.6923077" cy="2.30769231" r="2.30769231"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="25px" viewBox="0 0 21 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Visual-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Chat@2x" transform="translate(-45.000000, -202.000000)" stroke-width="2">
+            <g id="Page-1" transform="translate(46.000000, 202.000000)">
+                <g id="Group-6" transform="translate(0.000000, 0.182483)">
+                    <polygon id="Stroke-1" stroke="#FAD200" points="0.130010834 23.0379198 12.1885157 23.0379198 12.1885157 9.07527627 0.130010834 9.07527627"></polygon>
+                    <polygon id="Stroke-3" stroke="#00BDDD" points="12.1885157 23.0379198 18.3432286 23.0379198 18.3432286 9.07527627 12.1885157 9.07527627"></polygon>
+                    <path d="M8.85186566,4.61088624 L8.85186566,0.918578548" id="Stroke-4" stroke="#FAD200"></path>
+                    <path d="M2.61516793,5.99414951 L0.0043121232,3.38329371" id="Stroke-5" stroke="#FAD200"></path>
+                </g>
+                <path d="M15.0887194,6.17663272 L17.6995752,3.56577691" id="Stroke-7" stroke="#FAD200"></path>
+            </g>
+        </g>
+    </g>
+</svg>
